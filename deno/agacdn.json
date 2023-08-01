@@ -1,0 +1,10 @@
+{
+  "main": "index.ts",
+	"versions": {
+		"1.0.0": {
+			"index.ts": "d8e06300c70ba78ac42c25f0aa09b522133db032",
+      "circle.ts": "d8e06300c70ba78ac42c25f0aa09b522133db032",
+      "quadrate.ts": "d8e06300c70ba78ac42c25f0aa09b522133db032"
+		}
+	}
+}

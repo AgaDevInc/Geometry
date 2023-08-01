@@ -1,5 +1,17 @@
 import { FOREGROUND, BACKGROUND, Color, FONTS, joinColors, colorize } from 'https://agacdn.onrender.com/AgaDev:colors@1.0.0';
 import { figure } from './types.d.ts';
+import { makeQuadrate, makeQuadrateFilled } from './quadrate.ts';
+import { makeCircle, makeCircleFilled } from './circle.ts';
+
+export const quadrate = {
+  make: makeQuadrate,
+  makeFilled: makeQuadrateFilled
+};
+
+export const circle = {
+  make: makeCircle,
+  makeFilled: makeCircleFilled
+}
 
 export function toString(
 	figure: figure,

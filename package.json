@@ -1,0 +1,22 @@
+{
+  "name": "@agadev/geometry",
+  "version": "1.0.0",
+  "description": "Make figures in terminal",
+  "main": "lib/index.js",
+  "module": "lib/index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgaDevInc/Geometry.git"
+  },
+  "keywords": [
+    "terminal",
+    "geometry",
+    "aga"
+  ],
+  "author": "AgaDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgaDevInc/Geometry/issues"
+  },
+  "homepage": "https://github.com/AgaDevInc/Geometry#readme"
+}

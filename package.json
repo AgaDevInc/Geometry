@@ -1,6 +1,6 @@
 {
   "name": "@agadev/geometry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make figures in terminal",
   "main": "lib/index.js",
   "module": "lib/index.mjs",
